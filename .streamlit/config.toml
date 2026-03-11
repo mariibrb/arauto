@@ -1,4 +1,9 @@
+[server]
+# Define o limite máximo de upload em MB (2048 MB = 2GB)
+maxUploadSize = 2048
+
 [theme]
+# Mantém sua identidade visual Rosa e Branco
 primaryColor = "#ff69b4"
 backgroundColor = "#ffffff"
 secondaryBackgroundColor = "#fff0f5"
